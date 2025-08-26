@@ -1,0 +1,5 @@
+@import "~bootstrap/scss/bootstrap";
+
+trix-toolbar [data-trix-button-group='file-tools'] {
+    display: none;
+}
