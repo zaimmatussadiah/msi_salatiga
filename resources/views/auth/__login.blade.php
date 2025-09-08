@@ -22,7 +22,7 @@
           
           <style>
             body {
-                    background-image: url('/assets/img/carousel/idulfitri-pengurus.jpg'); /* Ganti 'path_to_your_image.jpg' dengan path gambar Anda */
+                    background-image: url('/assets/img/carousel/vallidasidata.jpg'); /* Ganti 'path_to_your_image.jpg' dengan path gambar Anda */
                     background-size: cover;
                     background-position: center;
                     background-repeat: no-repeat;
@@ -37,7 +37,7 @@
           <!-- /.login-logo -->
           <div class="card card-outline card-primary">
             <div class="card-header text-center">
-              <a href="/" class="h1"><b>MSI KAB.DEMAK</a>
+              <a href="/" class="h1"><b>MSI KOTA SALATIGA</a>
             </div>
             <div class="card-body">
               <p class="login-box-msg">Silahkan masukan email dan password</p>

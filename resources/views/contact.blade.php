@@ -70,8 +70,9 @@
             <div class="row gy-4 mt-1">
                 <div class="col-lg-6 ">
                     <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d253442.24885861765!2d110.4381254!3d-7.0051453!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e70ebe34747a471%3A0x6ef1f990d78ce485!2sMentari%20Sehat%20Indonesia%20Kab.%20Demak!5e0!3m2!1sen!2sid!4v1693535022899!5m2!1sen!2sid"
-                        frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen>
+                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.421138554454!2d110.47414099999999!3d-7.3064934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a788800fa2451%3A0x3013e4f8b9706ee!2sJl.%20Ngablak%2C%20Pulutan%2C%20Kec.%20Sidorejo%2C%20Kota%20Salatiga%2C%20Jawa%20Tengah!5e0!3m2!1sid!2sid!4v1756532018861!5m2!1sid!2sid"
+                             width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+                       
                     </iframe>
                 </div>
                 <!-- End Google Maps -->

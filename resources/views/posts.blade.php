@@ -12,7 +12,7 @@
         }
     </style>
     {{-- Header --}}
-    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('/assets/img/header/magang7.jpg');">
+    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('/assets/img/header/magang5.jpg');">
         <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
             <h2 class="text-center">BERITA DAN KEGIATAN</h2>
         </div>

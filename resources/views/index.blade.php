@@ -15,11 +15,11 @@
             </div>
         </div>
         <div id="hero-carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
-            <div class="carousel-item active" style="background-image: url(/assets/img/carousel/idulfitri-pengurus.jpg)">
+            <div class="carousel-item active" style="background-image: url(/assets/img/carousel/validasidata.jpg)">
             </div>
-            <div class="carousel-item" style="background-image: url(/assets/img/carousel/dukungan-pasien.jpg)"></div>
-            <div class="carousel-item" style="background-image: url(/assets/img/carousel/refreshment-kader.jpg)"></div>
-            <div class="carousel-item" style="background-image: url(/assets/img/carousel/validasi-data.jpg)"></div>
+            <div class="carousel-item" style="background-image: url(/assets/img/carousel/pelatihankader.jpg)"></div>
+            <div class="carousel-item" style="background-image: url(/assets/img/carousel/kolaborasitpt.jpg)"></div>
+            <div class="carousel-item" style="background-image: url(/assets/img/carousel/pelatihankader.jpg)"></div>
             <a class="carousel-control-prev" href="#hero-carousel" role="button" data-bs-slide="prev">
                 <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
             </a>
@@ -91,7 +91,7 @@
             <div class="container" data-aos="fade-up">
 
                 <div class="row justify-content-around gy-4">
-                    <div class="col-lg-6 img-bg" style="background-image: url(/assets/img/hero-carousel/banner.png.jpg);"
+                    <div class="col-lg-6 img-bg" style="background-image: url(/assets/img/hero-carousel/gedungmsii.jpg);"
                         data-aos="zoom-in" data-aos-delay="100"></div>
                     <div class="col-lg-5 d-flex flex-column justify-content-center ">
                         <h2 class="text-center mt-3">MENTARI SEHAT INDONESIA KOTA SALATIGA</h2>

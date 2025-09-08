@@ -16,21 +16,21 @@
         </div><!-- End Breadcrumbs -->
 
         <!-- ======= About Section ======= -->
-        <section id="about" class="about">
-            <div class="container" data-aos="fade-up">
+         <section id="about" class="about">
+    <div class="container" data-aos="fade-up">
 
-                <div class="row position-relative">
+        <div class="row position-relative align-items-center"> 
+            <div class="col-lg-6 col-md-12 about-img" style="background-image: url(/assets/img/gedungmsi.jpeg); min-height: 450px;">
+                </div>
 
-                    <div class="col-lg-6 col-md-12 about-img"
-                        style="background-image: url(/assets/img/gedungmsidemak.jpg);"></div>
-
-                    <div class="col-lg-6 col-md-12">
-                        <div class="Kotak">
-                            <div class="text-center">
-                                <h2 class=" mb-2">SSR MSI KOTA SALATIGA</h2>
-                            </div>
-                            <div class="garis1 " style="max-width:100%;width: auto;"></div>
-                        </div>
+            <div class="col-lg-6 col-md-12">
+                
+                <div class="Kotak">
+                    <div class="text-center">
+                        <h2 class=" mb-2">SSR MSI KOTA SALATIGA</h2>
+                    </div>
+                    <div class="garis1 " style="max-width:100%;width: auto;"></div>
+                </div>
                     </div>
                     <div class="col-lg-8 col-md-12">
                         <div class="our-story">

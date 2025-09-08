@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Login | Mentari Sehat Indonesia Kab. Demak</title>
+    <title>Login | Mentari Sehat Indonesia Kota Salatiga</title>
     <link href="/assets/img/logo-msi.jpg" rel="icon">
     <link href="/assets/img/logo-msi.jpg" rel="apple-touch-icon">
     <link rel="stylesheet" href="/lte/plugins/fontawesome-free/css/all.min.css">
@@ -23,7 +23,7 @@
         <div class="vh-100">
             <div class="d-flex flex-lg-row flex-column h-100">
                 <div class="d-flex flex-column">
-                    <img src="/assets/img/carousel/idulfitri-pengurus.jpg" class="h-100"
+                    <img src="/assets/img/carousel/validasidata.jpg" class="h-100"
                         alt="Sample image">
                     <a href="{{route('home')}}" class="mb-2 fs-6">
                         <button class="btn btn-primary position-absolute top-0 m-2">

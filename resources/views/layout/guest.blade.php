@@ -100,18 +100,18 @@
             <div class="footer-content position-relative">
                 <div class="container-fluid py-5 content-footer text-light">
                     <div class="container">
-                        <h2 class="text-center mb-4" style="font-size: 3vw;">YAYASAN MENTARI SEHAT INDONESIA KOTA SALALTIGA</h2>
+                        <h2 class="text-center mb-4" style="font-size: 3vw;">YAYASAN MENTARI SEHAT INDONESIA KOTA SALALATIGA</h2>
                         <div class="d-flex align-items-center justify-content-center">
                             <div class="col-sm-1 d-flex justify-content-center mt-4 mb-2">
                                 <a href="https://www.instagram.com/msikotasalatiga?igsh=MWcyMTN6d2h1MDJtaw==" class="tanpaWarna">
                                     <i class="bi bi-instagram fs-2"></i></a>
                             </div>
                             <div class="col-sm-1 d-flex justify-content-center mt-4 mb-2">
-                                <a href="https://youtube.com/@ssrmsidemak?si=YY5e4nxC0EcPd_vJ" class="tanpaWarna">
+                                <a href="" class="tanpaWarna">
                                     <i class="fab fa-youtube fs-2"></i></a>
                             </div>
                             <div class="col-sm-1 d-flex justify-content-center mt-4 mb-2">
-                                <a href="https://www.tiktok.com/@msi.demak?is_from_webapp=1&sender_device=pc"
+                                <a href=""
                                     class="tanpaWarna">
                                     <i class="bi bi-tiktok fs-3"></i>
                                 </a>
